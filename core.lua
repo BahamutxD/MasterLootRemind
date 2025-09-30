@@ -18,8 +18,10 @@ MasterLootRemind._blacklist = {
 	[BB["Anubisath Warder"]] = true,
 	[BB["Deathsworn Captain"]] = true,
 	[BB["Obsidian Sentinel"]] = true,
-	[BB["Ancient Core Hound"]] = true,
-	[BB["Stoneskin Gargoyle"]] = true
+	[BB["Phantom Servant"]] = true,
+	[BB["Dark Rider Champion"]] = true,
+	[BB["Gurubashi Bat Rider"]] = true,
+	[BB["Ancient Core Hound"]] = true
 }
 MasterLootRemind._whitelist = {
 	[BB["Lieutenant General Andorov"]] = true
